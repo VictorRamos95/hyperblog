@@ -1,4 +1,6 @@
-Archivo de prueba
-para curso de git
+Esta es la historia de Victor Ramos
 
-Mi nombre es Victor
+Victor Ramos tiene 27 años y nació en México, 
+viviendo en todo el mundo. 
+
+Hoy hablaremos de su vida.
